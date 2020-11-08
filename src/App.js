@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Counter from "./components/useEffect/Datafetching";
+import Counter from "./components/contextHook/App";
 
 function App() {
   return (
