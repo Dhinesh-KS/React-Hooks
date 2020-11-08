@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Counter from "./components/contextHook/App";
+import Counter from "./components/useReducer/Simple";
 
 function App() {
   return (
