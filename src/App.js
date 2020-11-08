@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Counter from "./components/useReducer/Simple";
+import Counter from "./components/useReducer/Complex";
 
 function App() {
   return (
