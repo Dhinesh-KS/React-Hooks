@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Counter from "./components/useEffect/MouseContainer";
+import Counter from "./components/useEffect/Datafetching";
 
 function App() {
   return (
