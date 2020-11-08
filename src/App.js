@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Counter from "./components/useState/HookCounterThree";
+import Counter from "./components/useEffect/MouseContainer";
 
 function App() {
   return (
