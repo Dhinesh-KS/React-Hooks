@@ -1,6 +1,6 @@
 import React from "react";
 import "./App.css";
-import Counter from "./components/useState/HookCounterTwo";
+import Counter from "./components/useState/HookCounterThree";
 
 function App() {
   return (
